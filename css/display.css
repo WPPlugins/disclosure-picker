@@ -1,0 +1,7 @@
+/* This stylesheet is used to style the public view of the plugin. */
+p.disclosure{
+    line-height:16px;
+    font-size: 14px;
+    padding:5px;
+    background:rgba(100,100,100,.2);
+}
